@@ -4,7 +4,7 @@ Este projeto faz parte da disciplina Projeto Integrador II inde estamos abordand
 
 # CÚRRICULO BÁSICO
 
-[Currículo Lattes](https://lattes.cnpq.br/2827259245658917)
+[Currículo Lattes](http://lattes.cnpq.br/2827259245658917)
 
 [Perfil no Linkedin](www.linkedin.com/in/joão-lucas-cunha-da-costa-899b682bb)
 
