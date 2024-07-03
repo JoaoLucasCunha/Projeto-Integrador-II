@@ -16,7 +16,7 @@ E-mail: jlcdctd54@gmail.com
 
 ## FORMAÇÃO ACADÊMICA
 
-Ensino Fundamental conclúido em 2021 - Escola Estadual João Conrado
+Ensino Fundamental concluído em 2021 - Escola Estadual João Conrado
 Atualmente cursando ensino médio de nível técnico em informática - 2022
 
 ## FORMAÇÃO COMPLEMENTAR
