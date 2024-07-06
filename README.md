@@ -21,14 +21,17 @@ Atualmente cursando ensino médio de nível técnico em informática - 2022
 
 ## FORMAÇÃO COMPLEMENTAR
 
-1. Clube de Programação: Dividindo Códigos, Multiplicando Ideaias, do IFAM - Campus Eirunepé
+1. Monitoria da Disciplina de Lógica de Programação e Estrutura de Dados
+Carga horária: 90h
+
+2. Clube de Programação: Dividindo Códigos, Multiplicando Ideaias, do IFAM - Campus Eirunepé
 Carga horária: 40h
 
-2. Metaverso: uma imersão educacional
+3. Metaverso: uma imersão educacional
 Carga horária: 2h
 
-3. PIBIC 2021/2022 e PIBEX 2021
+4. PIBIC 2021/2022 e PIBEX 2021
 Carga horária: 4h
 
-4. VI ENCONTRO NACIONAL DA EJA-EPT (PROEJA)
+5. VI ENCONTRO NACIONAL DA EJA-EPT (PROEJA)
 Carga horária: 27h
