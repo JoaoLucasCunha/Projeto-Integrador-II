@@ -29,12 +29,16 @@ Carga horária: 90h
 
 2. Clube de Programação: Dividindo Códigos, Multiplicando Ideaias, do IFAM - Campus Eirunepé
 Carga horária: 40h
+[Certificado referente a atividade](Certificado-2.pdf)
 
 3. Metaverso: uma imersão educacional
 Carga horária: 2h
+[Certificado referente a atividade](Certificado-3.pdf)
 
 4. PIBIC 2021/2022 e PIBEX 2021
 Carga horária: 4h
+[Certificado referente a atividade](Certificado-4.pdf)
 
 5. VI ENCONTRO NACIONAL DA EJA-EPT (PROEJA)
 Carga horária: 27h
+[Certificado referente a atividade](Certificado-5.pdf)
