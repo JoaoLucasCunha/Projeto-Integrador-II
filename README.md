@@ -25,6 +25,7 @@ Atualmente cursando ensino médio de nível técnico em informática - 2022
 
 1. Monitoria da Disciplina de Lógica de Programação e Estrutura de Dados
 Carga horária: 90h
+[Certificado referente a atividade](Certificado-1.pdf)
 
 2. Clube de Programação: Dividindo Códigos, Multiplicando Ideaias, do IFAM - Campus Eirunepé
 Carga horária: 40h
