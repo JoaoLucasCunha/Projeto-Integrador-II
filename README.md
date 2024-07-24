@@ -12,7 +12,7 @@ Este projeto faz parte da disciplina Projeto Integrador II inde estamos abordand
 
 Nome: João Lucas Cunha da Costa
 
-Idade: 17
+Idade: 18
 
 E-mail: jlcdctd54@gmail.com
 
